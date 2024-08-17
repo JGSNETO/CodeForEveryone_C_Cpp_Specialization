@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M1\\Code\\TypeAgnosticCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{518EB167-30D3-49C9-B344-49371305C5FB}|TypeAgnosticCode\\TypeAgnosticCode.vcxproj|C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M1\\Code\\TypeAgnosticCode\\TypeAgnosticCode\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{518EB167-30D3-49C9-B344-49371305C5FB}|TypeAgnosticCode\\TypeAgnosticCode.vcxproj|solutionrelative:TypeAgnosticCode\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M1\\Code\\TypeAgnosticCode\\TypeAgnosticCode\\main.cpp",
+              "RelativeDocumentMoniker": "TypeAgnosticCode\\main.cpp",
+              "ToolTip": "C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M1\\Code\\TypeAgnosticCode\\TypeAgnosticCode\\main.cpp",
+              "RelativeToolTip": "TypeAgnosticCode\\main.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-17T08:59:53.498Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

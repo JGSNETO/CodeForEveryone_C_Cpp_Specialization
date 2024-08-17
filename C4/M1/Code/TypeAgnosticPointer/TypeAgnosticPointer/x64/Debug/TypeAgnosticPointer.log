@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\jgsnt\Desktop\Repo\CodeForEveryone_C_Cpp_Specialization\C4\M1\Code\TypeAgnosticPointer\TypeAgnosticPointer\main.cpp(12,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+  TypeAgnosticPointer.vcxproj -> C:\Users\jgsnt\Desktop\Repo\CodeForEveryone_C_Cpp_Specialization\C4\M1\Code\TypeAgnosticPointer\x64\Debug\TypeAgnosticPointer.exe

@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\jgsnt\Desktop\Repo\CodeForEveryone_C_Cpp_Specialization\C4\M1\Code\TypeAgnosticCode\TypeAgnosticCode\main.cpp(23,26): warning C4305: 'argument': truncation from 'double' to 'T2'
+C:\Users\jgsnt\Desktop\Repo\CodeForEveryone_C_Cpp_Specialization\C4\M1\Code\TypeAgnosticCode\TypeAgnosticCode\main.cpp(23,26): warning C4305:         with
+C:\Users\jgsnt\Desktop\Repo\CodeForEveryone_C_Cpp_Specialization\C4\M1\Code\TypeAgnosticCode\TypeAgnosticCode\main.cpp(23,26): warning C4305:         [
+C:\Users\jgsnt\Desktop\Repo\CodeForEveryone_C_Cpp_Specialization\C4\M1\Code\TypeAgnosticCode\TypeAgnosticCode\main.cpp(23,26): warning C4305:             T2=float
+C:\Users\jgsnt\Desktop\Repo\CodeForEveryone_C_Cpp_Specialization\C4\M1\Code\TypeAgnosticCode\TypeAgnosticCode\main.cpp(23,26): warning C4305:         ]
+  TypeAgnosticCode.vcxproj -> C:\Users\jgsnt\Desktop\Repo\CodeForEveryone_C_Cpp_Specialization\C4\M1\Code\TypeAgnosticCode\TypeAgnosticCode\x64\Debug\TypeAgnosticCode.exe
