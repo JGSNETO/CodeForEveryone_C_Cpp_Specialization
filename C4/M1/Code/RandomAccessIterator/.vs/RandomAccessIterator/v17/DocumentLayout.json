@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M1\\Code\\RandomAccessIterator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFBCD3A7-2C58-4D72-887D-16F1616AA324}|RandomAccessIterator\\RandomAccessIterator.vcxproj|C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M1\\Code\\RandomAccessIterator\\RandomAccessIterator\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFBCD3A7-2C58-4D72-887D-16F1616AA324}|RandomAccessIterator\\RandomAccessIterator.vcxproj|solutionrelative:RandomAccessIterator\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M1\\Code\\RandomAccessIterator\\RandomAccessIterator\\main.cpp",
+              "RelativeDocumentMoniker": "RandomAccessIterator\\main.cpp",
+              "ToolTip": "C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M1\\Code\\RandomAccessIterator\\RandomAccessIterator\\main.cpp",
+              "RelativeToolTip": "RandomAccessIterator\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-20T19:12:15.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
