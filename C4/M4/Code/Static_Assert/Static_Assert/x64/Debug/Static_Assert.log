@@ -1,0 +1,2 @@
+﻿  Source.cpp
+C:\Users\jgsnt\Desktop\Repo\CodeForEveryone_C_Cpp_Specialization\C4\M4\Code\Static_Assert\Static_Assert\Source.cpp(6,16): error C2338: static_assert failed: 'T must be an integer type'

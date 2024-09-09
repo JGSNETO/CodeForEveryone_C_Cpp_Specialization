@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M4\\Code\\Assert_Exception\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E74EA381-DE96-419B-96E7-2828B3C9F9F6}|Assert_Exception\\Assert_Exception.vcxproj|C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M4\\Code\\Assert_Exception\\Assert_Exception\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E74EA381-DE96-419B-96E7-2828B3C9F9F6}|Assert_Exception\\Assert_Exception.vcxproj|solutionrelative:Assert_Exception\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M4\\Code\\Assert_Exception\\Assert_Exception\\Source.cpp",
+              "RelativeDocumentMoniker": "Assert_Exception\\Source.cpp",
+              "ToolTip": "C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M4\\Code\\Assert_Exception\\Assert_Exception\\Source.cpp",
+              "RelativeToolTip": "Assert_Exception\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-09T18:57:17.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
