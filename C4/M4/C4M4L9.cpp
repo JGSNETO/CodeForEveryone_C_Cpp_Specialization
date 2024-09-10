@@ -30,4 +30,8 @@ in a way that is flexible, maintainable, and scalable. Design petterns are categ
 2. Maintainability: By using a well-known patterns, your design becomes easier for other developers to understand and modify.
 3. Scalabitly: Design patterns help in building flexible and extensible software architectures.
 4. Testability: They often improve code testability by enforcing separation of concerns.
+
+# Move Semantics
+# Lambda functions
+# Use of auto
 */
