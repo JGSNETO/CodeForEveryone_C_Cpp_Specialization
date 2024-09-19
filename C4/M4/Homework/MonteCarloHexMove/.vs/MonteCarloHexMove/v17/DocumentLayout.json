@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M4\\Homework\\MonteCarloHexMove\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F75B0738-1F80-46AB-A643-284FC4F5D0FF}|MonteCarloHexMove\\MonteCarloHexMove.vcxproj|C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M4\\Homework\\MonteCarloHexMove\\MonteCarloHexMove\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F75B0738-1F80-46AB-A643-284FC4F5D0FF}|MonteCarloHexMove\\MonteCarloHexMove.vcxproj|solutionrelative:MonteCarloHexMove\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75B0738-1F80-46AB-A643-284FC4F5D0FF}|MonteCarloHexMove\\MonteCarloHexMove.vcxproj|C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M4\\Homework\\MonteCarloHexMove\\MonteCarloHexMove\\HexBoard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F75B0738-1F80-46AB-A643-284FC4F5D0FF}|MonteCarloHexMove\\MonteCarloHexMove.vcxproj|solutionrelative:MonteCarloHexMove\\HexBoard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75B0738-1F80-46AB-A643-284FC4F5D0FF}|MonteCarloHexMove\\MonteCarloHexMove.vcxproj|C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M4\\Homework\\MonteCarloHexMove\\MonteCarloHexMove\\HexAI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F75B0738-1F80-46AB-A643-284FC4F5D0FF}|MonteCarloHexMove\\MonteCarloHexMove.vcxproj|solutionrelative:MonteCarloHexMove\\HexAI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75B0738-1F80-46AB-A643-284FC4F5D0FF}|MonteCarloHexMove\\MonteCarloHexMove.vcxproj|C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M4\\Homework\\MonteCarloHexMove\\MonteCarloHexMove\\HexAI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F75B0738-1F80-46AB-A643-284FC4F5D0FF}|MonteCarloHexMove\\MonteCarloHexMove.vcxproj|solutionrelative:MonteCarloHexMove\\HexAI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75B0738-1F80-46AB-A643-284FC4F5D0FF}|MonteCarloHexMove\\MonteCarloHexMove.vcxproj|C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M4\\Homework\\MonteCarloHexMove\\MonteCarloHexMove\\HexGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F75B0738-1F80-46AB-A643-284FC4F5D0FF}|MonteCarloHexMove\\MonteCarloHexMove.vcxproj|solutionrelative:MonteCarloHexMove\\HexGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75B0738-1F80-46AB-A643-284FC4F5D0FF}|MonteCarloHexMove\\MonteCarloHexMove.vcxproj|C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M4\\Homework\\MonteCarloHexMove\\MonteCarloHexMove\\HexGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F75B0738-1F80-46AB-A643-284FC4F5D0FF}|MonteCarloHexMove\\MonteCarloHexMove.vcxproj|solutionrelative:MonteCarloHexMove\\HexGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75B0738-1F80-46AB-A643-284FC4F5D0FF}|MonteCarloHexMove\\MonteCarloHexMove.vcxproj|C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M4\\Homework\\MonteCarloHexMove\\MonteCarloHexMove\\MonteCarlo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F75B0738-1F80-46AB-A643-284FC4F5D0FF}|MonteCarloHexMove\\MonteCarloHexMove.vcxproj|solutionrelative:MonteCarloHexMove\\MonteCarlo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75B0738-1F80-46AB-A643-284FC4F5D0FF}|MonteCarloHexMove\\MonteCarloHexMove.vcxproj|C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M4\\Homework\\MonteCarloHexMove\\MonteCarloHexMove\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F75B0738-1F80-46AB-A643-284FC4F5D0FF}|MonteCarloHexMove\\MonteCarloHexMove.vcxproj|solutionrelative:MonteCarloHexMove\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75B0738-1F80-46AB-A643-284FC4F5D0FF}|MonteCarloHexMove\\MonteCarloHexMove.vcxproj|C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M4\\Homework\\MonteCarloHexMove\\MonteCarloHexMove\\HexBoard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F75B0738-1F80-46AB-A643-284FC4F5D0FF}|MonteCarloHexMove\\MonteCarloHexMove.vcxproj|solutionrelative:MonteCarloHexMove\\HexBoard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75B0738-1F80-46AB-A643-284FC4F5D0FF}|MonteCarloHexMove\\MonteCarloHexMove.vcxproj|C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M4\\Homework\\MonteCarloHexMove\\MonteCarloHexMove\\MonteCarlo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F75B0738-1F80-46AB-A643-284FC4F5D0FF}|MonteCarloHexMove\\MonteCarloHexMove.vcxproj|solutionrelative:MonteCarloHexMove\\MonteCarlo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HexBoard.cpp",
+              "DocumentMoniker": "C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M4\\Homework\\MonteCarloHexMove\\MonteCarloHexMove\\HexBoard.cpp",
+              "RelativeDocumentMoniker": "MonteCarloHexMove\\HexBoard.cpp",
+              "ToolTip": "C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M4\\Homework\\MonteCarloHexMove\\MonteCarloHexMove\\HexBoard.cpp",
+              "RelativeToolTip": "MonteCarloHexMove\\HexBoard.cpp",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAqwK4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-19T19:47:38.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HexAI.cpp",
+              "DocumentMoniker": "C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M4\\Homework\\MonteCarloHexMove\\MonteCarloHexMove\\HexAI.cpp",
+              "RelativeDocumentMoniker": "MonteCarloHexMove\\HexAI.cpp",
+              "ToolTip": "C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M4\\Homework\\MonteCarloHexMove\\MonteCarloHexMove\\HexAI.cpp",
+              "RelativeToolTip": "MonteCarloHexMove\\HexAI.cpp",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-19T19:46:54.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HexAI.h",
+              "DocumentMoniker": "C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M4\\Homework\\MonteCarloHexMove\\MonteCarloHexMove\\HexAI.h",
+              "RelativeDocumentMoniker": "MonteCarloHexMove\\HexAI.h",
+              "ToolTip": "C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M4\\Homework\\MonteCarloHexMove\\MonteCarloHexMove\\HexAI.h",
+              "RelativeToolTip": "MonteCarloHexMove\\HexAI.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-19T19:46:38.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HexGame.cpp",
+              "DocumentMoniker": "C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M4\\Homework\\MonteCarloHexMove\\MonteCarloHexMove\\HexGame.cpp",
+              "RelativeDocumentMoniker": "MonteCarloHexMove\\HexGame.cpp",
+              "ToolTip": "C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M4\\Homework\\MonteCarloHexMove\\MonteCarloHexMove\\HexGame.cpp",
+              "RelativeToolTip": "MonteCarloHexMove\\HexGame.cpp",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAqwIQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-19T19:45:59.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HexGame.h",
+              "DocumentMoniker": "C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M4\\Homework\\MonteCarloHexMove\\MonteCarloHexMove\\HexGame.h",
+              "RelativeDocumentMoniker": "MonteCarloHexMove\\HexGame.h",
+              "ToolTip": "C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M4\\Homework\\MonteCarloHexMove\\MonteCarloHexMove\\HexGame.h",
+              "RelativeToolTip": "MonteCarloHexMove\\HexGame.h",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwCEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-19T19:45:25.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M4\\Homework\\MonteCarloHexMove\\MonteCarloHexMove\\main.cpp",
+              "RelativeDocumentMoniker": "MonteCarloHexMove\\main.cpp",
+              "ToolTip": "C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M4\\Homework\\MonteCarloHexMove\\MonteCarloHexMove\\main.cpp",
+              "RelativeToolTip": "MonteCarloHexMove\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-19T19:45:06.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M4\\Homework\\MonteCarloHexMove\\MonteCarloHexMove\\Player.h",
+              "RelativeDocumentMoniker": "MonteCarloHexMove\\Player.h",
+              "ToolTip": "C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M4\\Homework\\MonteCarloHexMove\\MonteCarloHexMove\\Player.h",
+              "RelativeToolTip": "MonteCarloHexMove\\Player.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-19T19:42:34.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HexBoard.h",
+              "DocumentMoniker": "C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M4\\Homework\\MonteCarloHexMove\\MonteCarloHexMove\\HexBoard.h",
+              "RelativeDocumentMoniker": "MonteCarloHexMove\\HexBoard.h",
+              "ToolTip": "C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M4\\Homework\\MonteCarloHexMove\\MonteCarloHexMove\\HexBoard.h",
+              "RelativeToolTip": "MonteCarloHexMove\\HexBoard.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-19T19:42:13.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MonteCarlo.h",
+              "DocumentMoniker": "C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M4\\Homework\\MonteCarloHexMove\\MonteCarloHexMove\\MonteCarlo.h",
+              "RelativeDocumentMoniker": "MonteCarloHexMove\\MonteCarlo.h",
+              "ToolTip": "C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M4\\Homework\\MonteCarloHexMove\\MonteCarloHexMove\\MonteCarlo.h",
+              "RelativeToolTip": "MonteCarloHexMove\\MonteCarlo.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-19T19:41:31.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MonteCarlo.cpp",
+              "DocumentMoniker": "C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M4\\Homework\\MonteCarloHexMove\\MonteCarloHexMove\\MonteCarlo.cpp",
+              "RelativeDocumentMoniker": "MonteCarloHexMove\\MonteCarlo.cpp",
+              "ToolTip": "C:\\Users\\jgsnt\\Desktop\\Repo\\CodeForEveryone_C_Cpp_Specialization\\C4\\M4\\Homework\\MonteCarloHexMove\\MonteCarloHexMove\\MonteCarlo.cpp",
+              "RelativeToolTip": "MonteCarloHexMove\\MonteCarlo.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-19T19:36:42.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
